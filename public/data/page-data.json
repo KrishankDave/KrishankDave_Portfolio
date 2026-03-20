@@ -1,0 +1,104 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "mail@krishankDave",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRnZvsmmLKssvmSxzDWhNBqHbbggHRGkScHBCLzqWHhrLhszZXFKQcMqfNvCZpJbLTvrvPV"
+      }
+      
+    ],
+    "socialItems": [
+      {
+        "platform": "Instagram",
+        "icon": "/images/icon/instagram-icon.svg",
+        "link": "https://www.instagram.com/krishankdave/" 
+      },
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "https://www.linkedin.com/in/krishank-dave/"
+      },
+      {
+        "platform": "github",
+        "icon": "/images/icon/github-icon.svg",
+        "link": "https://github.com/krishankdave"
+      }
+    
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": "Rustomjee Internation School - 2020",
+        "description": "Completed My education from Rustomjee International School with a focus on science and mathematics, achieving excellent grades and actively participating in extracurricular activities."
+      },
+      {
+        "title": "Diploma - 2021-24",
+        "description": "Completing Diploma from Mukesh Patel School of Technology Management and Engineering with a specialization in Computer Science, gaining practical skills and knowledge in programming, data structures, and software development."
+      },
+      {
+        "title": "Bachelor's Degree - 2024-27",
+        "description": "Currently pursuing a Bachelor's degree in Data Science Engineering, with a focus on Data Understanding, Machine Learning, data structures, and algorithms."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Tableau",
+        "icon": "/images/home/education-skill/tableau-svgrepo-com (2).svg",
+        "rating": 5
+      },
+      {
+        "name": "Machine Learning",
+        "icon": "/images/home/education-skill/machine-learning-06-svgrepo-com.svg",
+        "rating": 5
+      },
+      {
+        "name": "Django",
+        "icon": "/images/home/education-skill/django-icon-svgrepo-com.svg",
+        "rating": 5
+      },
+      {
+        "name": "Scikit Learn",
+        "icon": "/images/home/education-skill/scikitlearn-svgrepo-com.svg",
+        "rating": 5
+      },
+      {
+        "name": "Python",
+        "icon": "/images/home/education-skill/python-svgrepo-com.svg",
+        "rating": 5
+      },
+      {
+        "name": "MySQL",
+        "icon": "/images/home/education-skill/mysql-logo-svgrepo-com.svg",
+        "rating": 5
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [
+     
+      {
+        "title": "Instagram",
+        "href": "https://www.instagram.com/krishankdave/"
+      },
+      {
+        "title": "LinkedIn",
+        "href": "https://www.linkedin.com/in/krishank-dave"
+      },
+      {
+        "title": "GitHub",
+        "href": "https://github.com/krishankdave"
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "krishank.dave63@nmims.in",
+        "link": "mailto:krishank.dave63@nmims.in"
+      }
+
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "workData": [
+    {
+      "image": "/images/work/work-img-1.jpg",
+      "title": "US State Crime Data Visualization",
+      "slug": "https://github.com/KrishankDave/US-State-Crime-Rate-Visulization"
+    },
+    {
+      "image": "/images/work/work-img-2.jpg",
+      "title": "Turf Management Database Design",
+      "slug": "https://github.com/KrishankDave/Turf-Management-System"
+    },
+    {
+      "image": "/images/work/work-img-3.jpg",
+      "title": "Sentiment Analysis Using TextBlob",
+      "slug": "https://github.com/KrishankDave/Sentiment-Analysis"
+    },
+    {
+      "image": "/images/work/work-img-4.jpg",
+      "title": "Airbnb Data Analysis",
+      "slug": "https://github.com/KrishankDave/Airbnb-Analysis"
+    }
+  ]
+}
